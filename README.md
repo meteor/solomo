@@ -1,4 +1,4 @@
-Devshop Demo for Meteor Mobile: SoLoMo
+SoLoMo: Devshop Demo for Meteor Mobile
 ======================================
 
 > Making Social, Local, Mobile Easier than Ever Before!
