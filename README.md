@@ -1,3 +1,3 @@
 ### SoLoMo
 
-This example has moved to [meteor/mobile-packages/examples/solomo](https://github.com/meteor/mobile-packages/tree/master/examples/solomo).
+This example has moved to [the examples folder of meteor/mobile-packages](https://github.com/meteor/mobile-packages/tree/master/examples/solomo).
